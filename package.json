@@ -8,13 +8,13 @@
   },
   "private": false,
   "engines": {
-    "node": "4.0.x"
+    "node": "4.x.x"
   },
   "main": "./lib/app.js",
   "dependencies": {
     "compression": "^1.1.0",
     "express": "",
-    "morgan": "^1.10.1",
+    "morgan": "^1.x.x",
     "node-uuid": "",
     "request": "",
     "slugify-url": ""
