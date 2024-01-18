@@ -4,7 +4,7 @@
   "version": "1.7.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Muscula/html2pdf.it"
+    "url": "https://github.com/bobindian/html2pdfclone"
   },
   "private": false,
   "engines": {
@@ -37,7 +37,7 @@
   "readmeFilename": "README.md",
   "description": "html2pdf.it\r ===========\r Using PhantomJS to generate pdfs, via a webservice. Runs using node.js.",
   "bugs": {
-    "url": "https://github.com/Muscula/html2pdf.it/issues"
+    "url": "https://github.com/bobindian/html2pdfclone/issues"
   },
   "directories": {
     "test": "test"
