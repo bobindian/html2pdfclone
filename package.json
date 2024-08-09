@@ -20,13 +20,13 @@
     "slugify-url": ""
   },
   "devDependencies": {
-    "mocha": "",
     "chai": "",
+    "mocha": "latest",
+    "mocha-jshint": "^2.2.2",
+    "open": "",
     "sinon": "",
     "sinon-chai": "",
-    "underscore": "",
-    "mocha-jshint": "",
-    "open": ""
+    "underscore": ""
   },
   "scripts": {
     "start": "node ./lib/app.js",
